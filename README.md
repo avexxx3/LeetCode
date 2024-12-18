@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/avexxx3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/avexxx3/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/avexxx3/LeetCode/tree/master/0189-rotate-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/avexxx3/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/avexxx3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/avexxx3/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/avexxx3/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
