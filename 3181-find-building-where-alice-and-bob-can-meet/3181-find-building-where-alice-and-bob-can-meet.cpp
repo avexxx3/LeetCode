@@ -48,7 +48,7 @@ public:
             index++;
     }
 
-        vector<int> buildings(queries.size(), (heights.size() > 1) ? (heights[1] == 31991 ?49999:-1) : -1) ;
+        vector<int> buildings(queries.size(), -1) ;
         priority_queue <Query, vector<Query>, HeightComparator> minHeapHeight;
 
         for(int i=0; i<heights.size(); i++) {
@@ -56,10 +56,7 @@ public:
                 minHeapHeight.push(minHeapIndex.top());
                 minHeapIndex.pop();
             }
-
-            if(i==49991)
-                i++;
-
+            
             while(!minHeapHeight.empty() && minHeapHeight.top().maxHeight <= heights[i]) {
                 buildings[minHeapHeight.top().qIndex] = i;
                 minHeapHeight.pop();
