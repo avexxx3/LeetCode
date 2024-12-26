@@ -71,4 +71,20 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/avexxx3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/avexxx3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Depth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/avexxx3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/avexxx3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/avexxx3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
