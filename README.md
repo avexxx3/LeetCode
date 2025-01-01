@@ -35,6 +35,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/avexxx3/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/avexxx3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/avexxx3/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/avexxx3/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
