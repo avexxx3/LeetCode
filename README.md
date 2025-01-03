@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/avexxx3/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/avexxx3/LeetCode/tree/master/0189-rotate-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/avexxx3/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2358-number-of-ways-to-split-array](https://github.com/avexxx3/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avexxx3/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/avexxx3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Two Pointers
@@ -94,5 +95,6 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/avexxx3/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/avexxx3/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avexxx3/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
