@@ -15,6 +15,7 @@ A collection of LeetCode questions
 | [2465-shifting-letters-ii](https://github.com/avexxx3/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avexxx3/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/avexxx3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/avexxx3/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avexxx3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions
 | [2465-shifting-letters-ii](https://github.com/avexxx3/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avexxx3/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/avexxx3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/avexxx3/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avexxx3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
@@ -111,17 +113,21 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/avexxx3/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/avexxx3/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avexxx3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/avexxx3/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avexxx3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/avexxx3/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avexxx3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [3305-count-prefix-and-suffix-pairs-ii](https://github.com/avexxx3/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avexxx3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
