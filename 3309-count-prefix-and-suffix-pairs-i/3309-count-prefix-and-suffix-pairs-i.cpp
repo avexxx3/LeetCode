@@ -9,9 +9,9 @@ struct Node {
   Node(char cL, char cR, int count) : chL(cL), chR(cR), count(count) {}
 };
 
-struct PrefixTree {
+struct PrefixSuffixTrie {
   Node *root;
-  PrefixTree() { root = new Node('\0', '\0', 0); }
+  PrefixSuffixTrie() { root = new Node('\0', '\0', 0); }
 
   int insert(string word) {
     Node *ptr = root;
@@ -64,7 +64,7 @@ struct PrefixTree {
 
 public:
     int countPrefixSuffixPairs(vector<string>& words) {
-        PrefixTree trie;
+        PrefixSuffixTrie trie;
         int count = 0;
 
         reverse(words.begin(), words.end());
