@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/avexxx3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/avexxx3/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/avexxx3/LeetCode/tree/master/0189-rotate-array) |
+| [0952-word-subsets](https://github.com/avexxx3/LeetCode/tree/master/0952-word-subsets) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/avexxx3/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avexxx3/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/avexxx3/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -38,10 +39,12 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/avexxx3/LeetCode/tree/master/0952-word-subsets) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/avexxx3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/avexxx3/LeetCode/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/avexxx3/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avexxx3/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/avexxx3/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
