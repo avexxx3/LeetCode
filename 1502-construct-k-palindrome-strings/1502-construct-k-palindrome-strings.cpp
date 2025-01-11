@@ -7,24 +7,23 @@ public:
 
         int solos = 0;
         int doubles = 0;
-        int i=0;
-        while(i<26) 
-            if(arr[i] > 0)
-                if(arr[i]%2) {
+    
+        for(int &num: arr)
+            if(num > 0) {
+                if(num%2) {
                     solos++;
-                    arr[i]--;
-                } else {
-                    arr[i] -= 2;
-                    doubles++;
+                    num--;
                 }
-            else i++;
+
+                doubles += num/2;
+            }
 
             if(k < solos)
                 return false;
 
             k -= solos;
             k -= doubles * 2;
-
+            
             return k<=0;
     }
 };
