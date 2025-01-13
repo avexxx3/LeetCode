@@ -47,6 +47,7 @@ A collection of LeetCode questions
 | [1502-construct-k-palindrome-strings](https://github.com/avexxx3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/avexxx3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/avexxx3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/avexxx3/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/avexxx3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/avexxx3/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avexxx3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/avexxx3/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/avexxx3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/avexxx3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/avexxx3/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
