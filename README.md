@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/avexxx3/LeetCode/tree/master/0011-container-with-most-water) |
 | [1502-construct-k-palindrome-strings](https://github.com/avexxx3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/avexxx3/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/avexxx3/LeetCode/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1025-minimum-cost-for-tickets](https://github.com/avexxx3/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/avexxx3/LeetCode/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
