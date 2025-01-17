@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | [2358-number-of-ways-to-split-array](https://github.com/avexxx3/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/avexxx3/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avexxx3/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2792-neighboring-bitwise-xor](https://github.com/avexxx3/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/avexxx3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/avexxx3/LeetCode/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/avexxx3/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -156,4 +157,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/avexxx3/LeetCode/tree/master/2509-minimize-xor) |
+| [2792-neighboring-bitwise-xor](https://github.com/avexxx3/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 <!---LeetCode Topics End-->
