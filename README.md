@@ -16,6 +16,7 @@ A collection of LeetCode questions
 | [2292-counting-words-with-a-given-prefix](https://github.com/avexxx3/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/avexxx3/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/avexxx3/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/avexxx3/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/avexxx3/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/avexxx3/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/avexxx3/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions
 | [0952-word-subsets](https://github.com/avexxx3/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/avexxx3/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/avexxx3/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2685-first-completely-painted-row-or-column](https://github.com/avexxx3/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/avexxx3/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/avexxx3/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -158,4 +160,8 @@ A collection of LeetCode questions
 | ------- |
 | [2509-minimize-xor](https://github.com/avexxx3/LeetCode/tree/master/2509-minimize-xor) |
 | [2792-neighboring-bitwise-xor](https://github.com/avexxx3/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+## Matrix
+|  |
+| ------- |
+| [2685-first-completely-painted-row-or-column](https://github.com/avexxx3/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
